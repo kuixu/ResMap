@@ -25,7 +25,7 @@ You may also download the source files (Python) and run them using your own Pyth
 
 Requirements are:
 
-* Python (2.7+)
+* Python (2.7+/3.6+)
 * NumPy (1.6+)
 * SciPy (0.11+)
 * Matplotlib (1.2+)
